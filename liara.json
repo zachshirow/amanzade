@@ -1,0 +1,9 @@
+{
+  "app": "amanzade",
+  "platform": "static",
+  "path": "./dist",
+  "port": 4321,
+  "build": {
+    "location": "iran"
+  }
+}
